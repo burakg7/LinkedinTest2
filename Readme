@@ -1,0 +1,4 @@
+Used config.properties to store features
+Validated through the same loop with the list of webElement
+It might be problem to run from feature file , Java JDK 15 required
+Thanks.
